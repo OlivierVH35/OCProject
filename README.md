@@ -14,3 +14,7 @@ Pour la pull request
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+
+[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
+
+[![Build Status]
